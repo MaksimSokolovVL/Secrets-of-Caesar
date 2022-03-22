@@ -1,21 +1,18 @@
 import java.util.Scanner;
 
 public class KeyboardIn {
-    private static int number;
-    private  String txt;
-
 
     KeyboardIn() {
     }
 
 
-    public String getTxt() {
-        return txt= keyboardString();
-    }
+//    public static String getTxt() {
+//        return keyboardString();
+//    }
 
-    public static int getNumber() {
-        return number = keyboardInt();
-    }
+//    public static int getNumber() {
+//        return keyboardInt();
+//    }
 
     public static int keyboardInt() {
         Scanner keyBoard = new Scanner(System.in);

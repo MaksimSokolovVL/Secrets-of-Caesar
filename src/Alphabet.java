@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Alphabet {
-    private ArrayList<Character> symbol = new ArrayList<>();
+    private final ArrayList<Character> symbol = new ArrayList<>();
 
     public Alphabet() {
 
