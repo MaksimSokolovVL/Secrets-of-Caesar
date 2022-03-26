@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e971822-bbe5-44f6-a8cc-9b7fd85abfa2" name="Changes" comment="Внес изменения: объединил два метода в один, сделал метод дешифровки, убрал лишнее.">
-      <change afterPath="$PROJECT_DIR$/.idea/encrypted_text/Life34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encrypted_text/Pushkin34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encrypted_text/code34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/normal_text/Pushkin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/normal_text/lifeHack.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/DECODEq-1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/DECODEq-50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/DECODEq1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/DECODEq50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/code.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/q-1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/q-50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/q.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/q1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encrypted_text/q50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/normal_text/fileTEST.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Secrets of Caesar/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +90,26 @@
       <option name="project" value="LOCAL" />
       <updated>1648217993128</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Внес изменения: объединил два метода в один, сделал метод дешифровки, убрал лишнее.">
+      <created>1648218306506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648218306506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
