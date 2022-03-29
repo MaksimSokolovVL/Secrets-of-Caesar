@@ -1,3 +1,5 @@
+package com.maximsv.checklists;
+
 import java.util.ArrayList;
 
 public class ExceptionWords {
